@@ -1,0 +1,17 @@
+table {
+    border: 1px double rgb(35, 216, 186);
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    background-color: #F5E5E1;
+}
+
+th {
+    background-color: rgb(35, 216, 186);
+    color: #F9B487;
+    padding: 10px;
+}
+td {
+    padding: 10px;
+    background-color: #F9B487;
+}
